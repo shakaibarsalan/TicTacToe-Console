@@ -69,4 +69,3 @@ After compiling, run:
 
 This project is for educational purposes.
 
-```
