@@ -3,7 +3,7 @@
 
 ## README.md
 
-```markdown
+
 # Tic Tac Toe C++ Console
 
 A simple **two-player Tic Tac Toe game** implemented in C++ for the console. This project was developed as a Programming Fundamentals semester project at UMT Lahore.
